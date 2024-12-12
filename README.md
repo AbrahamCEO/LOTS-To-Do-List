@@ -15,6 +15,16 @@ LOTS To-Do is a modern task management app that helps you stay organized. It fea
 - Responsive design
 - Toast notifications for actions
 
+## LOGIN
+![image](https://github.com/user-attachments/assets/bf110935-ba4a-4cb5-8571-d776c17dd0fa)
+
+## SIGNUP
+![image](https://github.com/user-attachments/assets/34ed47c8-f94b-493a-b3e0-8e5baa3c65b1)
+
+## Landing Page
+![image](https://github.com/user-attachments/assets/cb2e2f25-9837-4feb-83e6-be456ed04c22)
+
+
 ---
 
 ## Technology Stack
