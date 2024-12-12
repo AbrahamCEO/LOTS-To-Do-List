@@ -16,7 +16,7 @@ import AddFolderDialog from './dialogs/AddFolderDialog';
 
 const Sidebar = observer(() => {
     const [isAddFolderOpen, setIsAddFolderOpen] = useState(false);
-    const [isSidebarOpen, setIsSidebarOpen] = useState(true); // State for toggling sidebar
+    const [isSidebarOpen, setIsSidebarOpen] = useState(true);
 
     return (
         <div

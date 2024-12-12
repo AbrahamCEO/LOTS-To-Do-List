@@ -5,7 +5,7 @@ import TodoItem from '../components/TodoItem';
 import AddTodo from '../components/AddTodo';
 import { LogOut } from 'lucide-react';
 import { authStore } from '../stores/AuthStore';
-import Sidebar from '../components/Sidebar'; // Import Sidebar
+import Sidebar from '../components/Sidebar';
 
 const TodoList = observer(() => {
   const handleSignOut = async () => {
